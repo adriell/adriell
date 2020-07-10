@@ -28,3 +28,4 @@ Meu nome é Adriel Viana, AWS Certified Solutions Architect e apaixonado por tec
 - :books: Estudando para certificação AWS SysOps:heart:
 
 ---
+⭐️ From [adriell](https://github.com/adriell)
