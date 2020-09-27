@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Meu nome é Adriel Viana, AWS Certified Solutions Architect e apaixonado por tecnologia.
 
-- :office_worker: Trabalhando como Site Reliability Engineer no **C6 Bank**
+- :office_worker: Trabalhando como Cloud Engineer no **Banco Itaú**
 - :blue_heart: AWS, Terraform, Ansible, Docker, Kubernetes e muito mais!
 - :books: Estudando para certificação AWS SysOps:heart:
 
