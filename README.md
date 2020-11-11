@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 </span>
 
 <span>
-    <img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg"> <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"> <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"> <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg"> <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"> <br />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> 
+    <img width="10%" src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg"> 
+    <img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"> 
+    <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg">
 </span>
 ---
 ⭐️ From [adriell](https://github.com/adriell)
