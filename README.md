@@ -27,7 +27,7 @@ Meu nome é Adriel Viana, AWS Certified Solutions Architect e apaixonado por tec
 - :blue_heart: AWS, Terraform, Ansible, Docker, Kubernetes e muito mais!
 - :books: Estudando para certificação AWS SysOps:heart:
 <span>
-    <img align="right" width="55%" alt="Gabriel Martini's github stats." src="https://github-readme-stats.vercel.app/api?username=gabrielmartinigit&show_icons=true&theme=dracula&count_private=true" />
+    <img align="right" width="55%" alt="Adriel Viana github stats." src="https://github-readme-stats.vercel.app/api?username=adriell&show_icons=true&theme=dracula&count_private=true" />
 </span>
 ---
 ⭐️ From [adriell](https://github.com/adriell)
