@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hi, I'm Adriel Viana <h1>
+<h1 align="center"> Hi there, I'm Adriel Viana :main_technologies: <h1>
 <p align="center">
     <a href="mailto:adriell.ads@gmail.com" style="text-decoration: none">
         <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
@@ -24,16 +24,19 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white">
     </a>
 </p>
+
 ### About me 👋
+
 <p align="left">
           <samp>
-              Meu nome é Adriel Viana, AWS Certified Solutions Architect e apaixonado por tecnologia. <br />
-              - :office_worker: Trabalhando como Cloud Engineer no **Banco Itaú** <br />
-              - :blue_heart: AWS, Terraform, Ansible, Docker, Kubernetes e muito mais! <br />
-              - :books: Estudando para certificação AWS SysOps:heart: <br />
+              - :office_worker: I'm AWS Certified Solutions Architect  <br />
+              - :office_worker: I'm currently working on Itaú Unibanco as Cloud Engineer <br />
+              - :books: I'm currently studying for certification AWS SysOps:heart: <br />
           </samp>
 </p>
+
 <br />
+
 <span>
     <img align="right" width="55%" alt="Adriel Viana github stats." src="https://github-readme-stats.vercel.app/api?username=adriell&show_icons=true&theme=dracula&count_private=true" />
 </span>
@@ -49,5 +52,6 @@ Here are some ideas to get you started:
     <img width="10%" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg">
 </span>
+
 ---
 ⭐️ From [adriell](https://github.com/adriell)
