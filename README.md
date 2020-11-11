@@ -23,13 +23,12 @@ https://github-readme-stats.vercel.app/api?username=adriell&show_icons=true&them
 <p align="left">
           <samp>
               Meu nome é Adriel Viana, AWS Certified Solutions Architect e apaixonado por tecnologia.
-
-- :office_worker: Trabalhando como Cloud Engineer no **Banco Itaú**
-- :blue_heart: AWS, Terraform, Ansible, Docker, Kubernetes e muito mais!
-- :books: Estudando para certificação AWS SysOps:heart:
+              - :office_worker: Trabalhando como Cloud Engineer no **Banco Itaú**
+              - :blue_heart: AWS, Terraform, Ansible, Docker, Kubernetes e muito mais!
+              - :books: Estudando para certificação AWS SysOps:heart:
           </samp>
 </p>
-
+<br />
 <span>
     <img align="right" width="55%" alt="Adriel Viana github stats." src="https://github-readme-stats.vercel.app/api?username=adriell&show_icons=true&theme=dracula&count_private=true" />
 </span>
