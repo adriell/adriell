@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriellucas/)](https://www.linkedin.com/in/adriellucas/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adriel_ads)](https://twitter.com/adriel_ads)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriell.ads@gmail.com)](mailto:adriell.ads@gmail.com)
-https://github-readme-stats.vercel.app/api?username=adriell&show_icons=true&theme=dracula&count_private=true
+
 ## Olá 👋
 <p align="left">
           <samp>
-              Meu nome é Adriel Viana, AWS Certified Solutions Architect e apaixonado por tecnologia.
-              - :office_worker: Trabalhando como Cloud Engineer no **Banco Itaú**
-              - :blue_heart: AWS, Terraform, Ansible, Docker, Kubernetes e muito mais!
-              - :books: Estudando para certificação AWS SysOps:heart:
+              Meu nome é Adriel Viana, AWS Certified Solutions Architect e apaixonado por tecnologia. <br />
+              - :office_worker: Trabalhando como Cloud Engineer no **Banco Itaú** <br />
+              - :blue_heart: AWS, Terraform, Ansible, Docker, Kubernetes e muito mais! <br />
+              - :books: Estudando para certificação AWS SysOps:heart: <br />
           </samp>
 </p>
 <br />
