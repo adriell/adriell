@@ -1,17 +1,3 @@
-<!--
-**adriell/adriell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center"> Hi there, I'm Adriel Viana :man_technologist: <h1>
 <p align="center">
     <a href="mailto:adriell.ads@gmail.com" style="text-decoration: none">
@@ -36,6 +22,8 @@ Here are some ideas to get you started:
 </p>
 
 <br />
+
+### Languages and Tools:
 
 <span>
     <img align="right" width="55%" alt="Adriel Viana github stats." src="https://github-readme-stats.vercel.app/api?username=adriell&show_icons=true&theme=dracula&count_private=true" />
