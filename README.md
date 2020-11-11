@@ -12,15 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Adriel Viana :man_technologist:
+<h1 align="center"> Hi, I'm Adriel Viana <h1>
 <p align="center">
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/adriell)](https://github.com/adriell)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriellucas/)](https://www.linkedin.com/in/adriellucas/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adriel_ads)](https://twitter.com/adriel_ads)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriell.ads@gmail.com)](mailto:adriell.ads@gmail.com)
+    <a href="mailto:adriell.ads@gmail.com" style="text-decoration: none">
+        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/adriellucas/" style="text-decoration: none">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
+    </a>
+    <a href="https://twitter.com/adriel_ads" style="text-decoration: none">
+        <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white">
+    </a>
 </p>
-## Olá 👋
+### About me 👋
 <p align="left">
           <samp>
               Meu nome é Adriel Viana, AWS Certified Solutions Architect e apaixonado por tecnologia. <br />
@@ -32,6 +36,18 @@ Here are some ideas to get you started:
 <br />
 <span>
     <img align="right" width="55%" alt="Adriel Viana github stats." src="https://github-readme-stats.vercel.app/api?username=adriell&show_icons=true&theme=dracula&count_private=true" />
+</span>
+
+<span>
+    <img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> <br />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg"> <br />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"> <br />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> <br />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> <br />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"> <br />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> <br />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg"> <br />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"> <br />
 </span>
 ---
 ⭐️ From [adriell](https://github.com/adriell)
