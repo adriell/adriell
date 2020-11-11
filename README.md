@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hi there, I'm Adriel Viana :main_technologies: <h1>
+<h1 align="center"> Hi there, I'm Adriel Viana :man_technologist: <h1>
 <p align="center">
     <a href="mailto:adriell.ads@gmail.com" style="text-decoration: none">
         <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
