@@ -11,11 +11,11 @@
     </a>
 </p>
 
-### About me 👋
+### About me:
 
 <p align="left">
           <samp>
-              - :office_worker: I'm AWS Certified Solutions Architect  <br />
+              - :computer: I'm AWS Certified Solutions Architect  <br />
               - :office_worker: I'm currently working on Itaú Unibanco as Cloud Engineer <br />
               - :books: I'm currently studying for certification AWS SysOps:heart: <br />
           </samp>
