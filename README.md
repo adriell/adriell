@@ -20,12 +20,16 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriell.ads@gmail.com)](mailto:adriell.ads@gmail.com)
 https://github-readme-stats.vercel.app/api?username=adriell&show_icons=true&theme=dracula&count_private=true
 ## Olá 👋
-
-Meu nome é Adriel Viana, AWS Certified Solutions Architect e apaixonado por tecnologia.
+<p align="left">
+          <samp>
+              Meu nome é Adriel Viana, AWS Certified Solutions Architect e apaixonado por tecnologia.
 
 - :office_worker: Trabalhando como Cloud Engineer no **Banco Itaú**
 - :blue_heart: AWS, Terraform, Ansible, Docker, Kubernetes e muito mais!
 - :books: Estudando para certificação AWS SysOps:heart:
+          </samp>
+</p>
+
 <span>
     <img align="right" width="55%" alt="Adriel Viana github stats." src="https://github-readme-stats.vercel.app/api?username=adriell&show_icons=true&theme=dracula&count_private=true" />
 </span>
