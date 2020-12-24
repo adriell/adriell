@@ -30,6 +30,7 @@
 </span>
 
 <span>
+    <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> 
     <img width="10%" src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg"> 
     <img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"> 
