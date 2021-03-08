@@ -16,7 +16,7 @@
 <p align="left">
           <samp>
               - :computer: I'm 2x AWS Certified (Architect + SysOps) Associate  <br />
-              - :office_worker: I'm currently working on Itaú Unibanco as Cloud Engineer <br />
+              - :office_worker: I'm Cloud Engineer at Itaú Unibanco <br />
               - :books: I'm currently studying for certification AWS Developer:heart: <br />
           </samp>
 </p>
